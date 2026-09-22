@@ -1,1 +1,1 @@
-﻿# Repository vang
+﻿# VANG - Git Practice
